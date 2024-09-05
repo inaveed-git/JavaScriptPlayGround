@@ -10,8 +10,6 @@ To clone this repository, run:
 git clone https://github.com/inaveed-git/JavaScriptPlayGround.git
 ```
 
-Replace `yourusername` with your actual GitHub username.
-
 ## How to Run
 
 1. Navigate to the directory:
