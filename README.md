@@ -1,4 +1,4 @@
-JavaScript Practice Questions and Solutions
+# JavaScript Practice Questions and Solutions
 
 This repository contains JavaScript exercises and their solutions. It's a great resource for practicing and improving your JavaScript skills.
 
